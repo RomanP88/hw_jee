@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet(name = "ProductServlet", urlPatterns = "/productServ")
+@WebServlet(name = "ProductServlet", urlPatterns = "/productServlet")
 
 public class ProductServ extends HttpServlet {
 
